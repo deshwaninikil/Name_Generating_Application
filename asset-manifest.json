@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/namegeneratingapp/static/css/main.1ce750d7.chunk.css",
+    "main.js": "/namegeneratingapp/static/js/main.851a3a20.chunk.js",
+    "main.js.map": "/namegeneratingapp/static/js/main.851a3a20.chunk.js.map",
+    "runtime-main.js": "/namegeneratingapp/static/js/runtime-main.f0b795ea.js",
+    "runtime-main.js.map": "/namegeneratingapp/static/js/runtime-main.f0b795ea.js.map",
+    "static/js/2.0ae1b281.chunk.js": "/namegeneratingapp/static/js/2.0ae1b281.chunk.js",
+    "static/js/2.0ae1b281.chunk.js.map": "/namegeneratingapp/static/js/2.0ae1b281.chunk.js.map",
+    "index.html": "/namegeneratingapp/index.html",
+    "static/css/main.1ce750d7.chunk.css.map": "/namegeneratingapp/static/css/main.1ce750d7.chunk.css.map",
+    "static/js/2.0ae1b281.chunk.js.LICENSE.txt": "/namegeneratingapp/static/js/2.0ae1b281.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b795ea.js",
+    "static/js/2.0ae1b281.chunk.js",
+    "static/css/main.1ce750d7.chunk.css",
+    "static/js/main.851a3a20.chunk.js"
+  ]
+}
